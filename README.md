@@ -26,3 +26,5 @@ Create age-appropriate bedtime routines and troubleshoot common sleep challenges
 
 ### 🍎 Meal & Food Ideas
 Generate simple meal and snack ideas based on the child's age and preferences.
+
+<img width="536" height="911" alt="image" src="https://github.com/user-attachments/assets/76a915ce-01f0-4190-a530-41e7fa85169d" />
